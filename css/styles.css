@@ -646,7 +646,6 @@ ul {
 }
 
 .modal-title {
-    margin-top: 48px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -657,7 +656,6 @@ ul {
 }
 .modal-form {
     margin-bottom: 8px;
-
 }
 .modal-label {
     display: block;
@@ -764,9 +762,7 @@ ul {
 .privacy-polisy {
     color: #4d5ae5;;
 }
-.modal-checkbox {
-    padding-bottom: 24px;
-}
+
 .modal-button {
     display: block;
     margin: 0 auto;
